@@ -1,0 +1,208 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/doublets.c
+stdbool.h
+-
+include/doublets.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/doublets.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/abort.h
+internal/common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/alloc.h
+memory
+-
+cstddef
+-
+stddef.h
+-
+internal/common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+type_traits
+-
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/assert.h
+algorithm
+-
+internal/assert.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/assert.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/criterion.h
+types.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/types.h
+assert.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/assert.h
+alloc.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/alloc.h
+internal/test.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/test.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/event.h
+cstddef
+-
+stddef.h
+-
+internal/common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+stats.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/stats.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/hooks.h
+internal/hooks.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/hooks.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/asprintf-compat.h
+cstdarg
+-
+stdarg.h
+-
+common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/assert.h
+common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+preprocess.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/preprocess.h
+asprintf-compat.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/asprintf-compat.h
+designated-initializer-compat.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/designated-initializer-compat.h
+cstring
+-
+cstdlib
+-
+cwchar
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+wchar.h
+-
+../types.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/types.h
+../stats.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/stats.h
+../hooks.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/hooks.h
+../event.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/event.h
+../abort.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/abort.h
+../options.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/options.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/deprecation.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/designated-initializer-compat.h
+common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/hooks.h
+common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+../types.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/types.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/ordered-set.h
+../types.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/types.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/preprocess.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/test.h
+designated-initializer-compat.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/designated-initializer-compat.h
+common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+Foundation/Foundation.h
+-
+exception
+-
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/logging.h
+internal/common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+internal/ordered-set.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/ordered-set.h
+internal/deprecation.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/deprecation.h
+stats.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/stats.h
+sstream
+-
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/options.h
+stdbool.h
+-
+logging.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/logging.h
+internal/common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/stats.h
+types.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/types.h
+internal/deprecation.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/deprecation.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/types.h
+alloc.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/alloc.h
+cstddef
+-
+vector
+-
+stdbool.h
+-
+stddef.h
+-
+internal/common.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/internal/common.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/doublets.h
+stdbool.h
+-
+ctype.h
+-
+trie.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/trie.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/tests.h
+criterion/criterion.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/criterion/criterion.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/trie.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/trie.c
+include/trie.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/trie.h
+
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/trie_tests.c
+stdlib.h
+-
+include/tests.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/tests.h
+include/trie.h
+/mnt/c/Users/elsa6/OneDrive - Imperial College London/Year 1/40009 Computing Practical 1/C/past_papers/doublets/include/trie.h
+

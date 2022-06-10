@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/ann" />
+      <file path="$PROJECT_DIR$/doublets" />
+      <file path="$PROJECT_DIR$/eliza" />
+      <file path="$PROJECT_DIR$/heapsort" />
+      <file path="$PROJECT_DIR$/heighwaydragon" />
+      <file path="$PROJECT_DIR$/huffmancoding" />
+      <file path="$PROJECT_DIR$/region" />
+    </sourceRoots>
+  </component>
+</project>
